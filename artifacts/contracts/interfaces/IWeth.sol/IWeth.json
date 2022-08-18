@@ -1,7 +1,7 @@
 {
   "_format": "hh-sol-artifact-1",
   "contractName": "IWeth",
-  "sourceName": "contracts/IWeth.sol",
+  "sourceName": "contracts/interfaces/IWeth.sol",
   "abi": [
     {
       "constant": true,
