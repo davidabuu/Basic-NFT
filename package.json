@@ -19,8 +19,10 @@
     "solhint": "^3.3.7",
     "solidity-coverage": "^0.7.21"
   },
-  "name": "ERC-20",
+  "name": "Basic-NFT",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "git remote add origin https://github.com/davidabuu/BasicNft.git",
+  "author": "ABU DAVID <65656238+davidabuu@users.noreply.github.com>"
 }
