@@ -25,9 +25,6 @@ module.exports = {
   networks: {
     hardhat: {
       chainId: 31337,
-      forking: {
-        url: MAINNET_URL,
-      },
       blockConfirmations: 1,
     },
     rinkeby: {

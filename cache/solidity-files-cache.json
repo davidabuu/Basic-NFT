@@ -482,8 +482,8 @@
       ]
     },
     "C:\\Users\\Administrator\\Desktop\\BASIC NFT\\contracts\\RandomIPFSNft.sol": {
-      "lastModificationDate": 1661800598144,
-      "contentHash": "570ffbd8850c3dec09c6481621789036",
+      "lastModificationDate": 1661893832723,
+      "contentHash": "6a5be59d40aee0a71b2bc25465ddb72d",
       "sourceName": "contracts/RandomIPFSNft.sol",
       "solcConfig": {
         "version": "0.8.7",
